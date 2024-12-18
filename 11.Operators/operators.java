@@ -15,14 +15,14 @@
 
 
 //Unary Operators
-// public class operators{
-//     public static void main(String args[]){
-//         int a = 10;
-//         int b = a--;
-//         System.out.println(a);
-//         System.out.println(b);
-//     }
-// }
+public class operators{
+    public static void main(String args[]){
+        int a = 10;
+        int b = a--;
+        System.out.println(a);
+        System.out.println(b);
+    }
+}
 
 
 //Relational Operators
@@ -48,11 +48,11 @@
 
 
 // Assignment Operators
-public class operators{
-    public static void main(String args[]){
-        int A = 10;
-        // A = A + 10;
-        A +=10;
-        System.out.println(A);
-    }
-}
+// public class operators{
+//     public static void main(String args[]){
+//         int A = 10;
+//         // A = A + 10;
+//         A +=10;
+//         System.out.println(A);
+//     }
+// }
